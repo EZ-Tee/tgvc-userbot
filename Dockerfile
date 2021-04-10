@@ -18,3 +18,4 @@ CMD python3 main.py
 
 # docker build -t tgcalls .
 # docker run -it --rm --env-file ./envfile --name tgvc-userbot tgcalls
+.
